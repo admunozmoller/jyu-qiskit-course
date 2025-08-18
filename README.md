@@ -1,4 +1,4 @@
-#  TIES4523 – Quantum Computer Programming (5 ECTS)
+#  TIES4523 – Quantum Computer Programming
 
 **University of Jyväskylä**  
 *Spring Semester 2025*
